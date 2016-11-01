@@ -38,7 +38,7 @@ Jovem padawan:
 
 Lembrar você deve de não comitar a `bower_components`
 
-## Ajuste do nome da pasta
+## Ajuste da pasta do projeto
 
 Iremos então criar um arquivo na estrutura chamado: `.bowerrc` 
 que contém em sua estrutura um ajuste para como desejamos
