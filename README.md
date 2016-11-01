@@ -3,6 +3,8 @@
 Essa apostila contém o conteúdo do curso para a PHPConference 
 Brasil edição 2016.
 
+![](http://phpconference.com.br/images/LogoPhpConferenceLimpo.png)
+
 # O Professor
 
 Michael Douglas Barbosa Araujo é graduado em gestão de tecnologia da informação e procura sempre estar próximo a comunidade ajudando com cursos e livros.
