@@ -1,4 +1,4 @@
-## Silex Curso - Baixando o Bootstrap
+## Silex Curso - Parte 1 - Baixando o Bootstrap
 
 Para baixar o Framework Bootstrap utilizaremos o Bower que é um 
 gerenciador de componentes de front-end que pode ser utilizado
