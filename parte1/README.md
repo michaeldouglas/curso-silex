@@ -36,4 +36,23 @@ Jovem padawan:
 
 ![](http://st-peters.bournemouth.sch.uk/tlplus/wp-content/uploads/2014/01/Yoda-and-Luke-620x410.jpg)
 
-Lembrar você deve de não comitar a bower_components
+Lembrar você deve de não comitar a `bower_components`
+
+## Ajuste do nome da pasta
+
+Iremos então criar um arquivo na estrutura chamado: `.bowerrc` 
+que contém em sua estrutura um ajuste para como desejamos
+que nossos pacotes estejam:
+
+```
+{
+  "directory": "assets/vendor/"
+}
+```
+
+Em seguida delete a pasta chamada: `bower_components` e execute
+novamente o comando:
+
+```
+bower i
+```
