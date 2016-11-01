@@ -56,3 +56,7 @@ novamente o comando:
 ```
 bower i
 ```
+
+Repare que a pasta agora mudou para: `assets` isso por que 
+configuramos no arquivo `.bowerrc` para que ele mantenha nesse
+padrão.
